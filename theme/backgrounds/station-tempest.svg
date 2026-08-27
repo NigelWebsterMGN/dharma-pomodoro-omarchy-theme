@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2560" height="1440" viewBox="0 0 2560 1440">
+  <rect width="2560" height="1440" fill="#000000"/>
+  <g transform="translate(1280 650) scale(1.05)">
+    <polygon points="0,-470 332,-332 470,0 332,332 0,470 -332,332 -470,0 -332,-332" fill="none" stroke="#ffffff" stroke-width="28"/>
+    <circle r="260" fill="#000000" stroke="#ffffff" stroke-width="24"/>
+    <rect x="-312" y="-68" width="624" height="136" fill="#000000" stroke="#ffffff" stroke-width="18"/>
+    <text x="0" y="34" text-anchor="middle" font-family="Arial Black, Helvetica, sans-serif" font-size="82" fill="#ffffff" letter-spacing="10">DHARMA</text>
+    <g transform="translate(-512 -512)"><path d="M330 548 C430 340 648 400 596 532 C560 624 690 614 724 510" fill="none" stroke="#ffffff" stroke-width="54" stroke-linecap="round"/><path d="M696 476 C596 684 378 624 430 492 C466 400 336 410 302 514" fill="none" stroke="#ffffff" stroke-width="54" stroke-linecap="round"/></g>
+  </g>
+  <text x="1280" y="1248" text-anchor="middle" font-family="iA Writer Mono S, monospace" font-size="44" fill="#ffffff">THE TEMPEST</text>
+  <text x="1280" y="1312" text-anchor="middle" font-family="iA Writer Mono S, monospace" font-size="26" fill="#b9b09a">4 8 15 16 23 42</text>
+</svg>

@@ -1,0 +1,12 @@
+DHARMA INITIATIVE
+Station 3: The Swan
+
+Department of Heuristics And Research on Material Applications
+
+Protocol reminder:
+  4 8 15 16 23 42
+
+The terminal prompt has been configured for Swan station operations.
+Do not use the computer for anything other than entering the code.
+
+Theme package created by Nigel Webster (@nigelwebstermgn) using OpenAI Codex.

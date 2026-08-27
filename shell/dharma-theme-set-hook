@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+theme_slug="${1:-}"
+plugin_control="$HOME/.config/omarchy/plugins/nigelwebstermgn.dharma-pomodoro/shell/dharma-pomodoro-control"
+[[ -x "$plugin_control" ]] || exit 0
+
+case "$theme_slug" in
+  dharma-swan-dark|dharma-swan-light)
+    "$plugin_control" apply-station >/dev/null 2>&1 || true
+    ;;
+  *)
+    "$plugin_control" hide >/dev/null 2>&1 || true
+    ;;
+esac
