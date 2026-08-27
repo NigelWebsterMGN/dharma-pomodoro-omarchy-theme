@@ -4,6 +4,8 @@ Unofficial DHARMA Initiative inspired Omarchy theme pack by Nigel Webster [@nige
 
 This repository contains the optional full desktop theme for the Dharma Pomodoro Omarchy plugin.
 
+Version 1.0.0 is the first public V1 release. Suggestions and improvement ideas can be emailed to Nigel Webster at nigel.webster@mgnconsultancy.co.uk.
+
 ## What It Adds
 
 - Dark and light DHARMA theme variants
