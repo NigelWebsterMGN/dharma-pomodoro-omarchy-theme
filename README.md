@@ -11,7 +11,7 @@ This repository contains the optional full desktop theme for the Dharma Pomodoro
 - Station-aware wallpaper switching when the Dharma Pomodoro plugin is installed
 - DHARMA terminal preamble only while a DHARMA theme is active
 - Screensaver branding that follows the selected station
-- Theme-set hook for hiding the clock when the user switches away from the DHARMA theme
+- Theme-set hook that lets the plugin hide the clock when the user switches away from the DHARMA theme, if the plugin's Theme-bound clock option is enabled
 
 ## Install
 
