@@ -15,6 +15,14 @@ Version 1.0.0 is the first public V1 release. Suggestions and improvement ideas 
 - Screensaver branding that follows the selected station
 - Theme-set hook that lets the plugin hide the clock when the user switches away from the DHARMA theme, if the plugin's Theme-bound clock option is enabled
 
+## Screenshots
+
+- [Dark Swan wallpaper](screenshots/theme-dark-swan-wallpaper.png)
+- [Light Swan wallpaper](screenshots/theme-light-swan-wallpaper.png)
+- [Station logo grid](screenshots/station-logo-grid.png)
+- [Theme font and text](screenshots/theme-font-and-text.png)
+- [Terminal preamble](screenshots/terminal-preamble.png)
+
 ## Install
 
 From a clone of this repository:
@@ -25,6 +33,14 @@ omarchy restart shell
 ```
 
 The Dharma Pomodoro plugin can also install this theme from its menu when the theme repository is public or the user has GitHub access.
+
+## Prerequisites
+
+- Omarchy theme support
+- `bash`
+- `python3`
+- ImageMagick `magick` is optional; when present, the installer can regenerate station wallpapers before installing
+- The Dharma Pomodoro plugin is optional, but needed for station switching from the bar menu and theme-bound clock behavior
 
 ## Plugin
 
